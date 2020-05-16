@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "NITCTakeMeThere",
+    "slug": "NITC-Take-me-There",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package":"com.expo.TakeMeThere",
+      "versionCode":1,
+      "config":{
+        "googleMaps":{
+          "apiKey":"AIzaSyAeicbYZGwVCg70Ld-9mMDhUn1a0q4FPBo"
+        }
+      }
+    }
+  }
+}
