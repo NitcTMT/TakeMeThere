@@ -12,7 +12,7 @@
     "versionCode": 1
   },
   "dependencies": {
-    "@expo/config": "^3.0.4",
+    "@expo/config": "^3.3.43",
     "@expo/vector-icons": "^10.0.6",
     "@mapbox/polyline": "^1.1.0",
     "@react-native-community/async-storage": "^1.9.0",
